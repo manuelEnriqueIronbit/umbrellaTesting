@@ -40,9 +40,9 @@ function minUmbrellas(weather) {
         home = true;
       }
     }
-   
     return totalUmbrellas;
 }
+
 
 
 module.exports = minUmbrellas;
